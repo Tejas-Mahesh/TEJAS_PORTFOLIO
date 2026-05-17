@@ -101,11 +101,7 @@ body{
     height: 80vh;
     margin-left: 8%;
     background-color: #00101c;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 40px;
-    flex-wrap: wrap;
+    
 }
 .home-abt{
     color: #fff;
