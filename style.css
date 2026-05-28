@@ -41,10 +41,10 @@ body{
     color: #fff;
     text-decoration: none;
     font-weight: 500;
-    margin-left: 35px;
+    margin-left: 36px;
     transition: .4s;
     opacity:0;
-    animation:slidetop 5s ease forwards;
+    animation:slidetop 6s ease forwards;
     animation-delay: 2sec; 
 }
 .navbar a:hover{
