@@ -664,12 +664,7 @@ body{
 
 /* BOTTOM */
 .footer-bottom {
-    text-align: center;
-    margin-top: 30px;
-    border-top: 1px solid #0ef;
-    padding-top: 15px;
-    font-size: 14px;
-    opacity: 0.7;
+    
 }
 
 /* RESPONSIVE */
