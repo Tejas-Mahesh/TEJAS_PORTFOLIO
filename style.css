@@ -119,12 +119,7 @@ body{
     justify-content: flex-end;
 }
 .home-abt h3{
-    font-size: 32px;
-    font-weight: 700;
-    opacity: 0;
-    animation:slidebottom 1s ease forwards;
-    animation-delay: .7s;
-    line-height: 70px;
+   
 }
 .home-abt span{
     color:#0ef;
