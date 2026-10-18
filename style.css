@@ -656,7 +656,20 @@ body{
     color: #0ef;
     transform: scale(1.2);
 }
+/* duplicated */
+/* SOCIAL ICONS */
+.social-icons a {
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 20px;
+    color: #fff;
+    transition: 0.3s;
+}
 
+.social-icons a:hover {
+    color: #0ef;
+    transform: scale(1.2);
+}
 /* BOTTOM */
 .footer-bottom {
     text-align: center;
