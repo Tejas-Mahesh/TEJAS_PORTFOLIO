@@ -723,6 +723,19 @@ body{
     animation:slidetop 5s ease forwards;
     animation-delay: 3sec; 
 }
+
+.home{
+    margin-top: 5%;
+    height: 80vh;
+    margin-left: 8%;
+    background-color: #00101c;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+    flex-wrap: wrap;
+
+}
 /* duplicate end */
 /* RESPONSIVE */
 @media (max-width: 768px) {
