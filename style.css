@@ -710,6 +710,19 @@ body{
     color: #0ef;
     padding-left: 5px;
 }
+
+.navbar a {
+    display:inline-block;
+    font-size: 25px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
+    margin-left: 35px;
+    transition: .5s;
+    opacity:0;
+    animation:slidetop 5s ease forwards;
+    animation-delay: 3sec; 
+}
 /* duplicate end */
 /* RESPONSIVE */
 @media (max-width: 768px) {
